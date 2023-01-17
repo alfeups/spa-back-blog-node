@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "nome": "Alfeu",
+      "mensagem": "Esta postagem foi atualizada!",
+      "id": 2
+    },
+    {
+      "nome": "Alfeu",
+      "mensagem": "Testando POST!",
+      "id": 10
+    },
+    {
+      "nome": "Alfeu",
+      "mensagem": "Testando PUT para ID 10!",
+      "id": 9
+    }
+  ]
+}
